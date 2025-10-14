@@ -44,4 +44,4 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 
 ---
 
-⭐️ _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_  
+⭐️ "_It will be hard, but never impossible_"
