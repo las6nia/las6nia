@@ -30,9 +30,10 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 ---
 
 ### 🌱 What I'm Up To
-- Expanding my knowledge in **backend development** and **data handling**  
+- Expanding my knowledge in **Programming Fundamentals**, **.NET Platform** , and **Web Development**
 - Learning more about **APIs** and **full-stack web projects**  
-- Building my personal portfolio and contributing to open-source projects  
+- Building my personal portfolio and contributing to open-source projects
+- Contributing to real projects with our computer club
 
 ---
 
