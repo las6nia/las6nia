@@ -40,6 +40,9 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 <p align="left">
   <a href="https://github.com/las6nia" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:alcalr22@uwgb.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/lalcala/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
