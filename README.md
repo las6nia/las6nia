@@ -7,9 +7,9 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 
 ### 💻 About Me  
 - 🔭 I’m currently working with **Python**, **Java**, **HTML**, **CSS**, and **JavaScript**  
-- 🧠 Learning more about **SQL**, **data structures**, and **software development fundamentals**  
-- 🧩 I enjoy building small projects, experimenting with code, and improving my skills  
-- ⚡ I started coding out of curiosity to use problem solving and develop applications to make a change  
+- 🧠 Learning more about **SQL**, **coding**, and **software development fundamentals**  
+- 🧩 I enjoy building small projects, experimenting with code, and improving my skills
+- ⚡ I started coding out of curiosity
 
 ---
 
@@ -33,7 +33,7 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 - Expanding my knowledge in **Programming Fundamentals**, **.NET Platform** , and **Web Development**
 - Learning more about **APIs** and **full-stack web projects**  
 - Building my personal portfolio and contributing to open-source projects
-- Contributing to real projects with our computer club
+- Contributing to real projects with our computer science club
 
 ---
 
