@@ -45,3 +45,13 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 ---
 
 ⭐️ "_It will be hard, but never impossible_"
+---
+
+### 🧭 Language Dashboard
+
+| Language | Proficiency |
+|-----------|--------------|
+| 🐍 Python | ![Python](https://img.shields.io/badge/-★★★★☆-yellow) |
+| ☕ Java | ![Java](https://img.shields.io/badge/-★★★☆☆-orange) |
+| 🌐 HTML/CSS/JS | ![HTML](https://img.shields.io/badge/-★★★★☆-blue) |
+| 🗃️ SQL | ![SQL](https://img.shields.io/badge/-★★★☆☆-lightgrey) |
