@@ -11,10 +11,18 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 - 🧠 Learning more about **SQL**, **coding**, and **software development fundamentals**  
 - 🧩 I enjoy building small projects, experimenting with code, and improving my skills
 - ⚡ I started coding out of curiosity
+  ---
+### 📚 Current Courses (Fall 2025)
+- Comp Sci 140 - Programming for Quantitative Reasoning (Python)
+- Comp Sci 130 - Computer Programming I (Java)
+- Math 260 - Introductory Statistics I
+- Math 201 - Calculus and Analytics Geometry I
+
+---
 ---
 ### 📚 Upcoming Courses (Spring 2026)
 - Comp Sci 181 - Human-Centered Design
-- Comp Sci 330 - Computer Programming II
+- Comp Sci 330 - Computer Programming II (Java)
 - Comp Sci 348 - Computer Networks
 - SE 310 - Software Engineering Fundamentals
 
