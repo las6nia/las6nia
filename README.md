@@ -11,7 +11,7 @@ I'm a **passionate tech learner** who loves solving problems through code and co
 - 🧠 Learning more about **SQL**, **coding**, and **software development fundamentals**  
 - 🧩 I enjoy building small projects, experimenting with code, and improving my skills
 - ⚡ I started coding out of curiosity
-  ---
+---
 ### 📚 Current Courses (Fall 2025)
 - Comp Sci 140 - Programming for Quantitative Reasoning (Python)
 - Comp Sci 130 - Computer Programming I (Java)
