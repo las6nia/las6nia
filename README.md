@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/lalcala/">
   <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=94A3B8" />
 </a>
-<a href="mailto:alcalr22@uwgb.edu">
+<a href="mailto:alcalarobler@wisc.edu">
   <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=E2E8F0" />
 </a>
 
@@ -81,19 +81,7 @@ A few things about me:
 <br>
 
 Some of these are everyday tools; others are technologies I'm actively learning. My goal is to become comfortable working across the stack, from building software to understanding the infrastructure supporting it.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=las6nia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CBD5E1&text_color=94A3B8&icon_color=64748B&include_all_commits=true" height="170" alt="GitHub statistics" />
-
-</div>
-
-<sub>Statistics are based on public GitHub activity. Language percentages reflect repository code rather than proficiency.</sub>
-
+--
 ## What I'm working on
 
 <table>
