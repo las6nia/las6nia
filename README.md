@@ -94,16 +94,6 @@ Some of these are everyday tools; others are technologies I'm actively learning.
 
 <sub>Statistics are based on public GitHub activity. Language percentages reflect repository code rather than proficiency.</sub>
 
-### Contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=las6nia&bg_color=0D1117&color=94A3B8&line=64748B&point=E2E8F0&area=true&area_color=1E293B&hide_border=true" width="98%" alt="Contribution activity graph" />
-
-</div>
-
----
-
 ## What I'm working on
 
 <table>
