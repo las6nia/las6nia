@@ -88,13 +88,13 @@ Some of these are everyday tools; others are technologies I'm actively learning.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=las6nia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CBD5E1&text_color=94A3B8&icon_color=64748B&include_all_commits=true" alt="GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=las6nia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CBD5E1&text_color=94A3B8&icon_color=64748B&include_all_commits=true" height="170" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=las6nia&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CBD5E1&text_color=94A3B8&langs_count=8" alt="Most used languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=las6nia&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CBD5E1&text_color=94A3B8&langs_count=8" height="170" alt="Most used languages" />
 
-<br>
+<br><br>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=las6nia&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=las6nia&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" width="65%" alt="GitHub contribution streak" />
 
 </div>
 
