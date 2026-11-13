@@ -84,17 +84,11 @@ Some of these are everyday tools; others are technologies I'm actively learning.
 
 ---
 
-## GitHub, by the numbers
+## GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=las6nia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CBD5E1&text_color=94A3B8&icon_color=64748B&include_all_commits=true" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=las6nia&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CBD5E1&text_color=94A3B8&langs_count=8" height="170" alt="Most used languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=las6nia&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" width="65%" alt="GitHub contribution streak" />
 
 </div>
 
