@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👨‍💻 LUIS ALCALA
+# LUIS ALCALA
 
 ### `> Initializing developer profile...`
 
