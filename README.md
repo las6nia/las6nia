@@ -68,7 +68,7 @@ A few things about me:
 
 **Frameworks & Databases**
 
-<img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,sqlite&theme=dark" />
 
 <br><br>
 
